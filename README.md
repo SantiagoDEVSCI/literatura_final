@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    LITERAGOOD
+    LITERATURA
     <br />
     <br />
 
@@ -8,7 +8,7 @@
 </div>
 
 
-# challenge 2-Alura-Oracle-api-consumo-back-literatura
+# challenge 2 - LITERATURA
 
 
 ## 💡 SOBRE EL CODIGO 💡
